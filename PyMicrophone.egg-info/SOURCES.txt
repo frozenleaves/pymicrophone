@@ -1,0 +1,9 @@
+README
+setup.py
+PyMicrophone/__init__.py
+PyMicrophone/microphone.py
+PyMicrophone.egg-info/PKG-INFO
+PyMicrophone.egg-info/SOURCES.txt
+PyMicrophone.egg-info/dependency_links.txt
+PyMicrophone.egg-info/requires.txt
+PyMicrophone.egg-info/top_level.txt

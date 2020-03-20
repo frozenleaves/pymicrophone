@@ -1,0 +1,13 @@
+本项目使用python来实现调用设备的麦克风录音，并保存到指定文件中去
+文件格式应为wav格式
+用法：
+
+example：
+
+    import microphone as mp
+
+    m = mp.Microphone("test.wav", 30)
+    m.record()
+    m.save()
+
+注意：Microphone类被实现为单例模式
