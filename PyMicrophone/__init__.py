@@ -1,4 +1,4 @@
 # -*- coding: utf-8 -*-
 
 
-__all__ = ['microphone']
+__all__ = ['microphone', 'player']

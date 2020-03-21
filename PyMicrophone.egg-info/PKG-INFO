@@ -1,7 +1,7 @@
 Metadata-Version: 1.2
 Name: PyMicrophone
-Version: 1.0.1
-Summary: 使用python录音
+Version: 1.1.2
+Summary: 使用python录音, 播放wav文件
 Home-page: http://frozenleaves.cn/pymicrophone
 Author: 幽若
 Author-email: 914814442@qq.com

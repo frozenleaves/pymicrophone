@@ -4,12 +4,12 @@ import setuptools
 
 setuptools.setup(
     name="PyMicrophone",
-    version="1.0.1",
-    py_modules=['microphone'],
+    version="1.1.2",
+
     packages=setuptools.find_packages(),
     author="幽若",
     author_email="914814442@qq.com",
-    description="使用python录音",
+    description="使用python录音, 播放wav文件",
     install_requires=['PyAudio>=0.2.11'],
 
     url="http://frozenleaves.cn/pymicrophone",

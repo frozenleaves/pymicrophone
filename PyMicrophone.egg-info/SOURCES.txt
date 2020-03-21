@@ -2,6 +2,7 @@ README
 setup.py
 PyMicrophone/__init__.py
 PyMicrophone/microphone.py
+PyMicrophone/player.py
 PyMicrophone.egg-info/PKG-INFO
 PyMicrophone.egg-info/SOURCES.txt
 PyMicrophone.egg-info/dependency_links.txt

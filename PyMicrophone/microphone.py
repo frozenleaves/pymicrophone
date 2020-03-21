@@ -90,6 +90,6 @@ class Microphone(object):
 
 
 if __name__ == '__main__':
-    m = Microphone('test.wav', 10)
+    m = Microphone('test.wav', 30)
     m.record()
     m.save()
