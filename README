@@ -4,7 +4,7 @@
 
 example：
 
-    import microphone as mp
+    from PyMicrophone import microphone as mp
 
     m = mp.Microphone("test.wav", 30)
     m.record()

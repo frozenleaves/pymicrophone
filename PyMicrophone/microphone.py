@@ -14,7 +14,7 @@ class Microphone(object):
     record_time: record duration, in second
 
     usage:
-        import microphone
+        from PyMicrophone import microphone
 
         m = microphone.Microphone("test.wav", 30)
         m.record()
